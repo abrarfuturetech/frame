@@ -46,7 +46,7 @@ frame-editor/
 1. **Clone or Download the Repository**
 
 ```bash
-git clone https://github.com/your-username/frame-editor.git
+git clone https://github.com/abrarfuturetech/frame.git
 ```
 
 Or [download ZIP](#) and extract.
